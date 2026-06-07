@@ -34,7 +34,7 @@ Projeyi kendi bilgisayarınızda çalıştırmak isterseniz aşağıdaki adımla
 
 1. Bu depoyu klonlayın:
    ```bash
-   git clone [https://github.com/kullanici-adiniz/Obesity-Level-Estimation-SVM.git](https://github.com/kullanici-adiniz/Obesity-Level-Estimation-SVM.git)
+   git clone [https://0zeynep/Obesity-Level-Estimation-SVM.git](https://github.com/0zeynep/Obesity-Level-Estimation-SVM.git)
 
 2. Proje dizinine gidin:
 
