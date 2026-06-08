@@ -3,7 +3,7 @@
 > **BLM0463 Veri Madenciliğine Giriş | Dönem Projesi | 2025–2026**
 
 Bu proje, UCI Machine Learning Repository'den alınan **ObesityDataSet** veri seti üzerinde **Destek Vektör Makineleri (SVM)** kullanarak bireylerin obezite düzeylerini tahmin etmektedir.
-
+Proje Youtube Linki: https://youtu.be/NhxNu9noV70
 ---
 
 ## 📋 İçindekiler
